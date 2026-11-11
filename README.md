@@ -111,5 +111,5 @@ Studied the foundations of professional software development with an emphasis on
 
 ## 🔭 I’m currently working on
 [About Me!](https://somethinggit.github.io)
-Developed 
+
 [Campsite Lottery App](https://github.com/CMPUT301F26-lambdaBBB/lambda_BBB-events)
